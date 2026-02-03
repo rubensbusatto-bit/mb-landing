@@ -1,0 +1,16 @@
+/* Reset mínimo para landing (remove estilo padrão do Vite) */
+:root {
+  color-scheme: light;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  max-width: none;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
